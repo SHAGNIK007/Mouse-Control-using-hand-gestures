@@ -16,7 +16,7 @@
 
 4.  ``` conda activate gest ```
 
-5.  Install "installs required.txt" by typing pip install {name and version of the tool} in anaconda prompt
+5.  Install "installs required.txt" by typing ```pip install {name and version of the tool} ``` in anaconda prompt
 
 6. ``` conda install PyAudio ```
 
